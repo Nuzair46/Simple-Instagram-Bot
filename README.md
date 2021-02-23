@@ -8,8 +8,8 @@
 
 * Requires mozilla Firefox installed on your system. Although this code wont run the GUI.  
 * if you want GUI, Edit line
-> client = InstaPy(username=userfile.read(), password=passfile.read(), headless_browser=True)  
+> client = InstaPy(username=username, password=password, headless_browser=True)  
 >
 to   
-> client = InstaPy(username=userfile.read(), password=passfile.read())
+> client = InstaPy(username=username, password=password)
 >
