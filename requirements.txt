@@ -1,0 +1,2 @@
+instapy
+git+https://github.com/rednek46/webdriverdownloader.git
